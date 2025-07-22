@@ -1,4 +1,4 @@
-<img width="1080" height="1074" alt="image" src="https://github.com/user-attachments/assets/56fc618c-a939-4f8e-ad4e-7da8588c7e1d" />
+<img src="https://github.com/user-attachments/assets/56fc618c-a939-4f8e-ad4e-7da8588c7e1d" width="400" />
 
 # 부르슈 (Brewssu) ☕️ — 교내 1인 맞춤형 커피 배달 플랫폼
 
